@@ -2,6 +2,7 @@ package com.zoipuus.doublelistview.utils;
 
 /**
  * Created by zoipuus on 2016/3/12.
+ * json string
  */
 public class JsonString {
     public static String json = "{" +
